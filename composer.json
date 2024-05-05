@@ -1,6 +1,6 @@
 {
     "name": "lobbesnl/lunar-paynl",
-    "description": "A poc",
+    "description": "A poc for Lobbes.nl",
     "type": "library",
     "keywords": ["keyword1", "keyword2"],
     "license": "MIT",
@@ -10,7 +10,7 @@
             "email": "scytheabhi97@gmail.com"
         }
     ],
-
+  
     "autoload": {
         "psr-4": {
             "YourNamespace\\": "src/"
@@ -20,7 +20,7 @@
     "scripts": {},
     "repositories": [],
     "config": {},
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {}
 }
